@@ -1,0 +1,28 @@
+{
+  "name": "small-node-seed",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-continuous-concat": "^0.1.1",
+    "gulp-inject": "^4.1.0",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-nodemon": "^2.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.8",
+    "gulp-webserver": "^0.9.1",
+    "main-bower-files": "^2.13.1",
+    "restify": "^4.1.1",
+    "run-sequence": "^1.2.2",
+    "through2": "^2.0.1"
+  }
+}
